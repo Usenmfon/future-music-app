@@ -1,5 +1,5 @@
 import { Box, Typography } from '@mui/material';
-import Stack from '@mui/material/Stack';<input type="range" min="1" max="100" value="50" class="slider"  />
+import Stack from '@mui/material/Stack';
 import styles from '../styles/audio.module.css'
 import { FaPlay } from 'react-icons/fa';
 import { FaPause } from 'react-icons/fa';

@@ -16,13 +16,7 @@ import { IoIosArrowDropleftCircle } from "react-icons/io";
 import { FaHeadset } from 'react-icons/fa';
 import { Block } from '@mui/icons-material';
 
-export default function handler() {
-
-
-
-
-
-// 
+export default function Main() {
 
 
 
