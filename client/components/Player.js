@@ -1,6 +1,6 @@
 import React, {useState, useRef, useEffect} from 'react'
-import Controls from './controls';
-import Details from './details';
+import Controls from './Controls';
+import Details from './Details';
 
 function Player(props) {
     const audioEl = useRef(null);

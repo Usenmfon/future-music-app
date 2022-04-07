@@ -4,11 +4,11 @@ import styles from "../../styles/Track.module.css"
 import Image from 'next/image'
 import Link from 'next/link'
 import Typography from '@mui/material/Typography';
-import AudioPlayer from "../../components/audioPlayer"
-import TrackAlbum from '../../components/trackalbum';
-import Controls from '../../components/controls';
-import Details from '../../components/details';
-import Player from '../../components/player';
+import AudioPlayer from "../../components/AudioPlayer"
+import TrackAlbum from '../../components/Trackalbum';
+import Controls from '../../components/Controls';
+import Details from '../../components/Details';
+import Player from '../../components/Player';
 
 import { IoIosArrowDropleftCircle } from "react-icons/io";
 
