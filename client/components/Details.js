@@ -8,7 +8,7 @@ function Details(props) {
 
                 <Image
             
-            src="/images/logo/madein.jpeg"
+            src="/images/logo/freebeat.jpeg"
             alt="Picture of the author"
             width={100}
             height={100}
